@@ -1,16 +1,13 @@
-### Hi there 👋
+![Anime](https://img.shields.io/badge/Anime-Lover-pink?style=flat-square&logo=anime)
+![Gaming](https://img.shields.io/badge/Gaming-Enthusiast-blue?style=flat-square&logo=pc)
+![Kotlin](https://img.shields.io/badge/Kotlin-Developer-orange?style=flat-square&logo=kotlin)
+![Yoasobi](https://img.shields.io/badge/Yoasobi-Fan-lightgreen?style=flat-square&logo=spotify)
+![JoJo's Bizarre Adventure](https://img.shields.io/badge/JoJo's_Bizarre_Adventure-Fanbase-orange?style=flat-square&logo=jojo)
+### Skills
 
-<!--
-**Windstrom5/Windstrom5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sleep
 
-Here are some ideas to get you started:
+### Visitor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://count.getloli.com/get/Windstrom5?theme=rule34)
+

@@ -14,10 +14,6 @@
 📊 **Github Stats**
 
 ![Windstrom5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Windstrom5&show_icons=true&theme=radical)
-
-
-🔝 **Most Used Languages**
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windstrom5&layout=compact&theme=radical)
 
 

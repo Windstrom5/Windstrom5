@@ -25,7 +25,7 @@
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=411135817449340929)
 //[![Discord](https://img.shields.io/badge/Discord-Contact-7289DA?style=flat-square&logo=discord)](https://discordapp.com/users/411135817449340929)
-![![Steam]](https://steam-stat.vercel.app/api?profileName=windstrom7)
+<img src="https://steam-stat.vercel.app/api?profileName=windstrom7"/>
 //[![Steam](https://img.shields.io/badge/Steam-Contact-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198881808539)
 
 

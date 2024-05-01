@@ -33,5 +33,4 @@
 
 
 🧑 **Visitor**
-
-
+[![:name](https://count.getloli.com/get/@:name)](https://count.getloli.com/get/@Windstrom5?theme=rule34)

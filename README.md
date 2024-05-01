@@ -23,8 +23,8 @@
 
 📞 **Contact Me**
 
-<img src="https://discord-readme-badge.vercel.app/api?id=411135817449340929">
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539"&show_in_game_bg=true>
+<a href="https://discordapp.com/users/411135817449340929" target="_blank"><img src="https://discord-readme-badge.vercel.app/api?id=411135817449340929" alt="My Discord"></a>
+<a href="https://steamcommunity.com/profiles/76561198881808539" target="_blank"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539" alt="GRSS"></a>
 
 
 🧑 **Visitor**

@@ -10,7 +10,7 @@
 
 - ![Sleep](https://media.tenor.com/HyCEde0nYMsAAAAi/blonde-big-eyes.gif)
   
-- ![Gaming]([https://media.tenor.com/HyCEde0nYMsAAAAi/blonde-big-eyes.gif](https://media.tenor.com/MKKY8W8v1tMAAAAi/molly-jinzhan.gif))
+- ![Gaming](https://media.tenor.com/MKKY8W8v1tMAAAAi/molly-jinzhan.gif)
 
 
 📊 **Github Stats**

@@ -23,7 +23,7 @@
 
 📞 **Contact Me**
 
-<img src="https://discord-readme-badge.vercel.app/api?id=411135817449340929" alt="My Discord" width="100" height="100">
+<img src="https://discord-readme-badge.vercel.app/api?id=411135817449340929" alt="My Discord" width="200" height="200">
 <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539" alt="GRSS" width="100" height="100">
 
 

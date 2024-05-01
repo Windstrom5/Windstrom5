@@ -34,4 +34,4 @@
 
 🧑 **Visitor**
 
-(https://count.getloli.com/get/@Windstrom5?theme=rule34)
+<img src="https://count.getloli.com/get/@:name ?theme=rule34" alt=":name" />

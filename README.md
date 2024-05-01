@@ -24,7 +24,7 @@
 📞 **Contact Me**
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=411135817449340929&height=100&width=100)
-![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539&height=100&width=100)
+![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539&height=50&width=50)
 
 
 🧑 **Visitor**

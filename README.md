@@ -21,6 +21,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windstrom5&layout=compact&theme=radical)
 
 
+🎵 **Spotify Playlist**
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hylwowzyrwilair3s7pf6fs4wy)
+
+
 📞 **Contact Me**
 
 <a href="https://discordapp.com/users/411135817449340929" target="_blank"><img src="https://discord-readme-badge.vercel.app/api?id=411135817449340929" alt="My Discord" style="height: 150px;"></a>

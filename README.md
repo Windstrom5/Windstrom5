@@ -8,7 +8,7 @@
 
 🛠️ **Skills**
 
-- ![Sleep](https://tenor.com/view/blonde-big-eyes-anime-sleeping-tired-gif-2242938256455327947)
+- ![Sleep](https://media.tenor.com/HyCEde0nYMsAAAAi/blonde-big-eyes.gif)
 
 
 📊 **Github Stats**

@@ -19,7 +19,7 @@
 
 
   
-###  📊 **Github Stats**
+###  <h2 style="font-family: 'Arial Black', sans-serif;">📊 **Github Stats**</h2>
   
   ![Windstrom5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Windstrom5&show_icons=true&theme=midnight-purple)
   
@@ -31,14 +31,14 @@
 
 
   
-###  🎵 **Spotify Playlist**
+###  <h3 style="font-family: 'Arial Black', sans-serif;">🎵 **Spotify Playlist**</h3>
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hylwowzyrwilair3s7pf6fs4wy)
 
 
 
   
-###  📞 **Contact Me**
+###  <h4 style="font-family: 'Arial Black', sans-serif;">📞 **Contact Me**</h4>
   
   <a href="https://discordapp.com/users/411135817449340929" target="_blank"><img src="https://discord-readme-badge.vercel.app/api?id=411135817449340929" alt="My Discord" style="height: 150px;"></a>
   <a href="https://steamcommunity.com/profiles/76561198881808539" target="_blank"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539" alt="GRSS"></a>
@@ -46,6 +46,6 @@
 
 
   
-###  🧑 **Visitor**
+###  <h5 style="font-family: 'Arial Black', sans-serif;">🧑 **Visitor**</h5>
 
 </div>

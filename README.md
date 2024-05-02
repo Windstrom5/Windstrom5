@@ -12,14 +12,14 @@
 
 
   
-  🛠️ **Skills**
+###  🛠️ **Skills**
   
   <img src="https://media.tenor.com/HyCEde0nYMsAAAAi/blonde-big-eyes.gif" alt="Sleep" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/MKKY8W8v1tMAAAAi/molly-jinzhan.gif" alt="Gaming" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/C-iFnnoFqIIAAAAi/mbb-monkey.gif" alt="Riding" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="Coding" style="width: 100px; height: 100px;">
 
 
 
   
-  📊 **Github Stats**
+###  📊 **Github Stats**
   
   ![Windstrom5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Windstrom5&show_icons=true&theme=midnight-purple)
   

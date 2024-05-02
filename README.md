@@ -4,7 +4,7 @@
 [![Yoasobi](https://img.shields.io/badge/Yoasobi-Fan-lightgreen?style=flat-square&logo=spotify)](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile?center=true)]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;?center=true)]
 
 
 🛠️ **Skills**
@@ -33,4 +33,4 @@
 
 🧑 **Visitor**
 
-<img src="https://count.getloli.com/get/@:name ?theme=rule34" alt=":name" />
+

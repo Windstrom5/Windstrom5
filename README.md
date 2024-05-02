@@ -54,7 +54,7 @@
 
   <a href="https://discord.com/users/411135817449340929" target="_blank"><img src="https://lanyard.cnrad.dev/api/411135817449340929?theme=light&bg=4deeea&animated=false&hideDiscrim=true" alt="My Discord" style="height: 150px; width: 250px;"></a>
   <a href="https://steamcommunity.com/profiles/76561198881808539" target="_blank"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539" alt="GRSS" style="height: 150px; width: 250px;"></a>
-<a href="https://github.com/johannchopin/stackoverflow-readme-profile">  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/24832688?theme=monokai&website=true&location=true" alt="user:24832688's SO profile" style="height: 120px;"></a>
+<a href="https://github.com/johannchopin/stackoverflow-readme-profile">  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/24832688?theme=monokai&website=true&location=true" alt="user:24832688's SO profile" style="height: 130px;"></a>
 <br>
 <br>
 

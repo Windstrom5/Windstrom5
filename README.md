@@ -13,11 +13,16 @@
 
   
 ###  <h1 style="font-family: 'Arial Black', sans-serif;">🛠️ Skills</h1>
+
   <img src="https://media.tenor.com/HyCEde0nYMsAAAAi/blonde-big-eyes.gif" alt="Sleep" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/MKKY8W8v1tMAAAAi/molly-jinzhan.gif" alt="Gaming" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/C-iFnnoFqIIAAAAi/mbb-monkey.gif" alt="Riding" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="Coding" style="width: 100px; height: 100px;">
 
 
 
-  
+###  <h6 style="font-family: 'Arial Black', sans-serif;">🖥️ **Knowledge**</h6>
+<img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Knowledge Image" style="width: 100px;"> 
+
+
+
 ###  <h2 style="font-family: 'Arial Black', sans-serif;">📊 **Github Stats**</h2>
   
   ![Windstrom5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Windstrom5&show_icons=true&theme=midnight-purple)
@@ -39,6 +44,7 @@
 
   
 ###  <h4 style="font-family: 'Arial Black', sans-serif;">📞 **Contact Me**</h4>
+
   <a href="https://discord.com/users/411135817449340929" target="_blank"><img src="https://lanyard.cnrad.dev/api/411135817449340929?theme=light&bg=4deeea&animated=false&hideDiscrim=true" alt="My Discord" style="height: 150px; width: 250px;"></a>
   <a href="https://steamcommunity.com/profiles/76561198881808539" target="_blank"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539" alt="GRSS" style="height: 150px; width: 250px;"></a>
 

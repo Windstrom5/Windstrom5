@@ -12,7 +12,7 @@
 
 
   
-###  🛠️ **Skills**
+###  <h1 style="font-family: 'Arial Black', sans-serif;">🛠️ Skills</h1>
   <hr style="border: 0;height: 2px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
   <img src="https://media.tenor.com/HyCEde0nYMsAAAAi/blonde-big-eyes.gif" alt="Sleep" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/MKKY8W8v1tMAAAAi/molly-jinzhan.gif" alt="Gaming" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/C-iFnnoFqIIAAAAi/mbb-monkey.gif" alt="Riding" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="Coding" style="width: 100px; height: 100px;">
 

@@ -48,4 +48,5 @@
   
 ###  <h5 style="font-family: 'Arial Black', sans-serif;">🧑 **Visitor**</h5>
 
+<img src="https://count.getloli.com/get/@:name ?theme=rule34" alt=":name" />
 </div>

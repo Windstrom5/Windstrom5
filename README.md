@@ -27,7 +27,7 @@
 <br>
 <br>
 
-###  <h2 style="font-family: 'Arial Black', sans-serif;">📊 **Github Stats**</h2>
+###  <h1>📊 **Github Stats**</h1>
 
   ![Windstrom5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Windstrom5&show_icons=true&theme=midnight-purple")
   
@@ -43,14 +43,14 @@
 <br>
 <br>
 
-###  <h3 style="font-family: 'Arial Black', sans-serif;">🎵 **Spotify Playlist**</h3>
+###  <h1>🎵 **Spotify Playlist**</h1>
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hylwowzyrwilair3s7pf6fs4wy)
 
 <br>
 <br>
 
-###  <h4 style="font-family: 'Arial Black', sans-serif;">📞 **Contact Me**</h4>
+###  <h1>📞 **Contact Me**</h1>
 
   <a href="https://discord.com/users/411135817449340929" target="_blank"><img src="https://lanyard.cnrad.dev/api/411135817449340929?theme=light&bg=4deeea&animated=false&hideDiscrim=true" alt="My Discord" style="height: 150px; width: 250px;"></a>
   <a href="https://steamcommunity.com/profiles/76561198881808539" target="_blank"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539" alt="GRSS" style="height: 150px; width: 250px;"></a>
@@ -58,9 +58,9 @@
 <br>
 <br>
 
-###  <h5 style="font-family: 'Arial Black', sans-serif;">🧑 **Visitor**</h5>
+###  <h1>🧑 **Visitor**</h1>
 
-<img src="https://count.getloli.com/get/@:name ?theme=rule34" alt=":name" />
+here
 
 <br>
 <br>

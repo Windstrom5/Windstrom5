@@ -21,7 +21,7 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windstrom5&layout=compact&theme=neon)
   
-  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Windstrom5&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
   🎵 **Spotify Playlist**
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hylwowzyrwilair3s7pf6fs4wy)

@@ -13,7 +13,7 @@
 
   
 ###  🛠️ **Skills**
-  
+  <hr style="border: 0;height: 2px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
   <img src="https://media.tenor.com/HyCEde0nYMsAAAAi/blonde-big-eyes.gif" alt="Sleep" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/MKKY8W8v1tMAAAAi/molly-jinzhan.gif" alt="Gaming" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/C-iFnnoFqIIAAAAi/mbb-monkey.gif" alt="Riding" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="Coding" style="width: 100px; height: 100px;">
 
 
@@ -31,14 +31,14 @@
 
 
   
-  🎵 **Spotify Playlist**
+###  🎵 **Spotify Playlist**
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hylwowzyrwilair3s7pf6fs4wy)
 
 
 
   
-  📞 **Contact Me**
+###  📞 **Contact Me**
   
   <a href="https://discordapp.com/users/411135817449340929" target="_blank"><img src="https://discord-readme-badge.vercel.app/api?id=411135817449340929" alt="My Discord" style="height: 150px;"></a>
   <a href="https://steamcommunity.com/profiles/76561198881808539" target="_blank"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539" alt="GRSS"></a>
@@ -46,6 +46,6 @@
 
 
   
-  🧑 **Visitor**
+###  🧑 **Visitor**
 
 </div>

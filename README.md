@@ -12,7 +12,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ###  <h1 style="font-family: 'Arial Black', sans-serif;">🛠️ Skills</h1>
 

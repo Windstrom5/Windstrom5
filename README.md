@@ -19,7 +19,7 @@
 
 
 ###  <h1>🖥️ **Knowledge**</h1>
-<img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Knowledge Image" style="width: 100px;"> 
+<img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Knowledge Image"> 
 
 
 

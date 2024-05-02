@@ -7,12 +7,13 @@
 
   
   [![typograssy](https://typograssy.deno.dev/api?text=私のプロフィールへようこそ&bg=000000&number=150)](https://github.com/kawarimidoll/typograssy)
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile&center=true)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lugrasimo&size=50&pause=1000&color=1F20EE&center=true&random=false&width=1000&height=100&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 
 
   
 ###  <h1 style="font-family: 'Arial Black', sans-serif;">🛠️ Skills</h1>
+
 
   <img src="https://media.tenor.com/HyCEde0nYMsAAAAi/blonde-big-eyes.gif" alt="Sleep" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/MKKY8W8v1tMAAAAi/molly-jinzhan.gif" alt="Gaming" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/C-iFnnoFqIIAAAAi/mbb-monkey.gif" alt="Riding" style="width: 100px; height: 100px;">   <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="Coding" style="width: 100px; height: 100px;">
 
@@ -31,8 +32,10 @@
   
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windstrom5&layout=compact&theme=neon)
+
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Windstrom5&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Windstrom5)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -56,5 +59,10 @@
   
 ###  <h5 style="font-family: 'Arial Black', sans-serif;">🧑 **Visitor**</h5>
 
+<img src="https://count.getloli.com/get/@:name ?theme=rule34" alt=":name" />
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&size=50&pause=1000&color=4DEEEA&center=true&random=false&width=500&height=100&lines=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86+%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99)](https://git.io/typing-svg)
 </div>
+

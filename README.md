@@ -3,9 +3,8 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-Developer-orange?style=flat-square&logo=kotlin)](https://github.com/Windstrom5/Tugas_Akhir)
 [![Yoasobi](https://img.shields.io/badge/Yoasobi-Fan-lightgreen?style=flat-square&logo=spotify)](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj)
 
-<p align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
-</p>
+
+                                        [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 
 🛠️ **Skills**

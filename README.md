@@ -39,7 +39,7 @@
 
   
 ###  <h4 style="font-family: 'Arial Black', sans-serif;">📞 **Contact Me**</h4>
-  <a href="https://discord.com/users/411135817449340929" target="_blank"><img src="https://lanyard.cnrad.dev/api/411135817449340929?theme=light&bg=809ecf&animated=false&hideDiscrim=true&idleMessage=Sleeping Probably" alt="My Discord" style="height: 150px; width: 250px;"></a>
+  <a href="https://discord.com/users/411135817449340929" target="_blank"><img src="https://lanyard.cnrad.dev/api/411135817449340929?theme=light&bg=809ecf&animated=false&hideDiscrim=true" alt="My Discord" style="height: 150px; width: 250px;"></a>
   <a href="https://steamcommunity.com/profiles/76561198881808539" target="_blank"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539" alt="GRSS" style="height: 150px; width: 250px;"></a>
 
 

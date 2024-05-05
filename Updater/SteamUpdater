@@ -46,7 +46,7 @@ const { createCanvas, loadImage } = require("canvas");
           quality: 1,
           compressionLevel: 0,
         });
-        fs.writeFileSync("generated-image.png", buffer);
+        fs.writeFileSync("generated-discord.png", buffer);
         console.log("Image saved successfully.");
       })
       .catch((error) => {

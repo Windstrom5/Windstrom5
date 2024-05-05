@@ -32,5 +32,19 @@ jobs:
     - name: Check out code into the Go module directory
       uses: actions/checkout@v2
       
-    - name: Update-gist
-      run:  go run ./cmd/box/main.go
+
+    
+    - name: Run updater.py
+      env:
+        HEADERS: ${{ secrets.HEADERS }}
+      run: |
+         python updater.py
+
+    - name: Commit and push if changed
+      run: |
+        git config user.name "Yuuka Chan"
+        git config user.email "kiizuha@gnuweeb.org"
+        git diff
+        git add README.md generated-profile.png
+        git commit -sm "workflow: update some magic~"
+         git push

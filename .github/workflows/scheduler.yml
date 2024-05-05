@@ -22,28 +22,17 @@ jobs:
           GIST_ID: 8bf56353bcb3a8e798b55b546b9619cf
           STEAM_API_KEY: ${{ secrets.ST_KEY}}
     steps:
-
-    - name: Set up Go 1.x
-      uses: actions/setup-go@v2
-      with:
-        go-version: ^1.14
-      id: go
-
-    - name: Check out code into the Go module directory
-      uses: actions/checkout@v2
       
-
-    
     - name: Run updater.py
       env:
-        HEADERS: ${{ secrets.HEADERS }}
+        HEADERS: ${{ secrets.DC_KEY }}
       run: |
          python updater.py
 
     - name: Commit and push if changed
       run: |
-        git config user.name "Yuuka Chan"
-        git config user.email "kiizuha@gnuweeb.org"
+        git config user.name "Windstrom5"
+        git config user.email "anggagant@gmail.com"
         git diff
         git add README.md generated-profile.png
         git commit -sm "workflow: update some magic~"

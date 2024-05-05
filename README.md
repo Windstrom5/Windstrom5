@@ -72,3 +72,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&size=50&pause=1000&color=4DEEEA&center=true&random=false&width=500&height=100&lines=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86+%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99)](https://git.io/typing-svg)
 </div>
 
+<script>
+  const steamID = "${{ secrets.ST_ID }}";
+  const steamStatusImage = document.getElementById("steamStatusImage");
+  steamStatusImage.src = `https://github-readme-steam-card.vercel.app/status/?steamid=${steamID}`;
+</script>

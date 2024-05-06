@@ -1,15 +1,13 @@
-name: Updater
+name: "Update README.md"
 
 on:
   schedule:
-    - cron: '0 19 * * *' # Run every day at midnight WIB
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
 
 jobs:
-  build:
+  check_and_update:
     runs-on: ubuntu-latest
-    env:
-      DC_KEY: ${{ secrets.DC_KEY }}
-      STEAM_API_KEY: ${{ secrets.ST_KEY }}
 
     steps:
       - name: Checkout master
@@ -20,15 +18,15 @@ jobs:
         with:
           node-version: 20.x
 
-      - name: Set up Python
+      - name: Set up python
         uses: actions/setup-python@v4
         with:
           python-version: 3.9
 
-      - name: Initialize npm package
-        run: npm init -y
+      - name: Install NodeJS packages
+        run: |
+          npm install
 
-          
       - name: Run updater.py
         env:
           HEADERS: ${{ secrets.DC_KEY }}

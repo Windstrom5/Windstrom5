@@ -61,6 +61,7 @@
 ###  <h1>🧑 **Visitor**</h1>
 
  <!-- steam-box-playtime start -->
+  <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
  <!-- steam-box-playtime end -->
 
 <br>

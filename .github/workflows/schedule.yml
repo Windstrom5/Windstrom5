@@ -1,25 +1,20 @@
 name: Update steam playtime
 
 on:
-  push:
-    branches: [master]
-  pull_request:
-    branches: [master]
   schedule:
-   - cron: '0 19 * * *' # Run every day at midnight WIB
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  
+
 jobs:
   build:
     name: Update-steam-playtime
     runs-on: ubuntu-latest
     env:
-      GH_TOKEN: ${{ secrets.GH_SECRET }}
-      GIST_ID: 10c3b5ab143aff46464bb5dcd33bbcca
       STEAM_API_KEY: ${{ secrets.ST_KEY }}
       STEAM_ID: 76561198881808539
-      UPDATE_OPTION: GIST_AND_MARKDOWN
+      UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
+      STEAM_OPTION: ALLTIME_AND_RECENT
 
     steps:
       - name: Set up Go 1.x
@@ -32,14 +27,14 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
-          git clone https://github.com/YouEclipse/steam-box.git 
-          cd steam-box && go build -o steam ./cmd/box/main.go
-          mv ./steam ../ && cd .. && rm -rf steam-box/
-
+          git clone https://github.com/torresflo/steam-box-for-readme.git
+          cd steam-box-for-readme && go build -o steam ./cmd/box/main.go
+          mv ./steam ../ && cd .. && rm -rf steam-box-for-readme/
       - name: Commit and push
         run: |-
           ./steam
           git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
+          git config --global pull.rebase false
           git diff
-          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git add README.md && git commit -m "Update Steam playtime" || exit 0
           git pull && git push

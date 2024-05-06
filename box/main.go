@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Windstrom5/steam-box/steambox"
+	"github.com/YouEclipse/steam-box/pkg/steambox"
 )
 
 func main() {

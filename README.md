@@ -45,7 +45,7 @@
 
 ###  <h1>🎵 **Spotify Playlist**</h1>
 <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hylwowzyrwilair3s7pf6fs4wy&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" style="display:inline-block;">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hylwowzyrwilair3s7pf6fs4wy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" style="display:inline-block;">
 </a>
 <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hylwowzyrwilair3s7pf6fs4wy" alt="recently-played-tracks" style="display:inline-block;">

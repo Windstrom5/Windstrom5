@@ -9,7 +9,9 @@ configDotenv();
   // Fetch data from Discord's Recent Games API
   const response = await axios.get(
     "https://discord.com/api/v9/users/333017995368464385/profile/recent-games",
-    { headers: JSON.parse(process.env.DC_KEY) }
+    headers: {
+        Authorization: `Bot ${process.env.DC_KEY}`, // Replace 'DISCORD_BOT_TOKEN' with the name of your Discord bot token environment variable
+      },
   );
   const games = response.data.recent_games;
 

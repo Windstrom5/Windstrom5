@@ -33,7 +33,8 @@ jobs:
       - name: Commit and push
         run: |-
           ./steam
-          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
+          git config user.email "anggagant@gmail.com"
+          git config --global user.name "Windstrom5"
           git config --global pull.rebase false
           git diff
           git add README.md && git commit -m "Update Steam playtime" || exit 0

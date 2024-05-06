@@ -34,10 +34,6 @@ jobs:
           cd steam-box-for-readme && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box-for-readme/
 
-      - name: Run steam-box
-        run: |
-          ./steam
-
       - name: Commit and push changes
         run: |
           git config user.email "anggagant@gmail.com"

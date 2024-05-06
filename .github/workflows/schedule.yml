@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       STEAM_OPTION: ALLTIME_AND_RECENT
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GH_TOKEN: ${{ secrets.GH_SECRET }}
       GIST_ID: 10c3b5ab143aff46464bb5dcd33bbcca
       STEAM_API_KEY: ${{ secrets.ST_KEY }}
       STEAM_ID: 76561198881808539

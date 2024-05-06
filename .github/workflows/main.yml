@@ -1,0 +1,44 @@
+name: Scheduler
+
+on:
+  schedule:
+   - cron: '0 19 * * *' # Run every day at midnight WIB
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+          DC_KEY: ${{ secrets.DC_KEY}}
+          STEAM_API_KEY: ${{ secrets.ST_KEY}}
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v4
+
+      - name: Set up NodeJS
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+
+      - name: Set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Install NodeJS packages
+        run: |
+          npm install
+          
+      - name: Run updater.py
+        env:
+          HEADERS: ${{ secrets.DC_KEY }}
+        run: |
+         python updater.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Windstrom5"
+          git config user.email "anggagant@gmail.com"
+          git diff
+          git add README.md generated-discord.png
+          git commit -sm "updating redme"
+           git push

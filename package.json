@@ -1,0 +1,11 @@
+{
+  "name": "Windstrom5",
+  "version": "1.0.0",
+  "description": "Description of your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Windstrom5",
+  "license": "MIT"
+}

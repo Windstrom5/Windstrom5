@@ -28,9 +28,6 @@ jobs:
       - name: Initialize npm package
         run: npm init -y
 
-      - name: Install NodeJS packages
-        run: |
-          npm install
           
       - name: Run updater.py
         env:

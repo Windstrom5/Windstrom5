@@ -6,12 +6,9 @@ on:
 
 jobs:
   build:
-    name: Update-gist
     runs-on: ubuntu-latest
     env:
           DC_KEY: ${{ secrets.DC_KEY}}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 8bf56353bcb3a8e798b55b546b9619cf
           STEAM_API_KEY: ${{ secrets.ST_KEY}}
     steps:
       - name: Checkout master

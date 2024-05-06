@@ -1,8 +1,7 @@
-const axios = require("axios");
-const fs = require("fs");
-const { createCanvas, loadImage } = require("canvas");
+import fs from "fs";
+import axios from "axios";
+import { createCanvas, loadImage } from "canvas";
 import { configDotenv } from "dotenv";
-
 
 configDotenv();
 
@@ -30,7 +29,7 @@ configDotenv();
   ctx.fillStyle = "black";
   ctx.font = "20px Arial";
 
-  games.forEach((game, index) => {
+  games.forEach(async (game, index) => {
     const row = Math.floor(index / 2);
     const col = index % 2;
     const x = col * (cellWidth + padding);
@@ -50,8 +49,14 @@ configDotenv();
           quality: 1,
           compressionLevel: 0,
         });
-        fs.writeFileSync("generated-discord.png", buffer);
-        console.log("Image saved successfully.");
+        const filePath = "generated-discord.png";
+        fs.writeFile(filePath, buffer, (err) => {
+          if (err) {
+            console.error("Error writing image file:", err);
+          } else {
+            console.log(`Image saved successfully at ${filePath}`);
+          }
+        });
       })
       .catch((error) => {
         console.error("Error loading image:", error);

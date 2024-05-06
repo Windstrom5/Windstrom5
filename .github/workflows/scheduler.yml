@@ -15,6 +15,7 @@ jobs:
     env:
       STEAM_API_KEY: ${{ secrets.ST_KEY }}
       STEAM_ID: 76561198881808539
+      GH_TOKEN: ${{ secrets.GH_SECRET }}
       UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
       STEAM_OPTION: ALLTIME_AND_RECENT
@@ -37,8 +38,8 @@ jobs:
       - name: Commit and push changes
         run: |
           git config user.email "anggagant@gmail.com"
-          git config --global user.name "Windstrom5"
-          git config --global pull.rebase false
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update Steam playtime"
-          git pull --rebase && git push origin main
+          git config user.name "Windstrom5"
+          git config credential.helper store
+          git remote set-url origin "https://github.com/Windstrom5/Windstrom5.git"
+          git fetch
+          git checkout main

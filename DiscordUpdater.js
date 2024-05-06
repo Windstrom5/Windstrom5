@@ -50,12 +50,20 @@ configDotenv();
           compressionLevel: 0,
         });
         const filePath = "generated-discord.png";
-        fs.writeFile(filePath, buffer, (err) => {
-          if (err) {
-            console.error("Error writing image file:", err);
-          } else {
-            console.log(`Image saved successfully at ${filePath}`);
+        // Check if the file exists
+        fs.access(filePath, fs.constants.F_OK, (err) => {
+          if (!err) {
+            // If the file exists, unlink (delete) it
+            fs.unlinkSync(filePath);
           }
+          // Write the new image file
+          fs.writeFile(filePath, buffer, (writeErr) => {
+            if (writeErr) {
+              console.error("Error writing image file:", writeErr);
+            } else {
+              console.log(`Image saved successfully at ${filePath}`);
+            }
+          });
         });
       })
       .catch((error) => {

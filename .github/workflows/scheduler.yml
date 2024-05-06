@@ -28,11 +28,11 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
 
-      - name: Clone and build steam-box
-        run: |
-          git clone https://github.com/Windstrom5/Windstrom5.git
-          cd Windstrom5/box && go build -o steam main.go
-          mv steam ../ && cd .. && rm -rf Windstrom5/
+      - name: Clone and run steam-box
+        run: |-
+          git clone https://github.com/torresflo/steam-box-for-readme.git
+          cd steam-box-for-readme && go build -o steam ./cmd/box/main.go
+          mv ./steam ../ && cd .. && rm -rf steam-box-for-readme/
 
       - name: Run steam-box
         run: |

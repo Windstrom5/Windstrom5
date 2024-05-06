@@ -1,6 +1,10 @@
 const axios = require("axios");
 const fs = require("fs");
 const { createCanvas, loadImage } = require("canvas");
+import { configDotenv } from "dotenv";
+
+
+configDotenv();
 
 (async () => {
   // Fetch data from Discord's Recent Games API

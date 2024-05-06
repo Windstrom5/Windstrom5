@@ -33,7 +33,7 @@ jobs:
         env:
           HEADERS: ${{ secrets.DC_KEY }}
         run: |
-         python updater.py
+         python Updater.py
 
       - name: Commit and push if changed
         run: |

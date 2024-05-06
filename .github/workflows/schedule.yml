@@ -7,7 +7,8 @@ on:
     branches: [master]
   schedule:
    - cron: '0 19 * * *' # Run every day at midnight WIB
-
+  workflow_dispatch:
+  
 jobs:
   build:
     name: Update-steam-playtime

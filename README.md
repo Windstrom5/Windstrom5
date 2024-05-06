@@ -68,7 +68,11 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&size=50&pause=1000&color=4DEEEA&center=true&random=false&width=500&height=100&lines=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86+%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99)](https://git.io/typing-svg)
-</div>
 
 ###  <h1>📞 **📘MY TOP PUBLIC PROJECT **</h1>
-<a href="https://github.com/Windstrom5/go_fit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Windstrom5&repo=go_fit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Windstrom5/go_fit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Windstrom5&repo=go_fit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="go_fit"></a>
+<a href="https://github.com/Windstrom5/Go-Fit-android"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Windstrom5&repo=Go-Fit-android&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Go-Fit-android"></a>
+<a href="https://github.com/Windstrom5/Tugas_Akhir"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Windstrom5&repo=Tugas_Akhir&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Tugas_Akhir"></a>
+</div>
+
+

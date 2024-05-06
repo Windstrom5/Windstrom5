@@ -44,7 +44,7 @@
 <br>
 
 ###  <h1>🎵 **Spotify Playlist**</h1>
-  
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31hylwowzyrwilair3s7pf6fs4wy&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hylwowzyrwilair3s7pf6fs4wy)
 
 <br>

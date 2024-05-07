@@ -12,7 +12,7 @@ jobs:
     env:
       STEAM_OPTION: ALLTIME_AND_RECENT
       GH_TOKEN: ${{ secrets.GH_SECRET }}
-      GIST_ID: 10c3b5ab143aff46464bb5dcd33bbcca
+      GIST_ID: 38df27d812b0bd3684edff737f6e1297
       STEAM_API_KEY: ${{ secrets.ST_KEY }}
       STEAM_ID: 76561198881808539
       UPDATE_OPTION: GIST_AND_MARKDOWN

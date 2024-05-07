@@ -41,9 +41,9 @@ jobs:
               git config user.email "anggagant@gmail.com"
               git config --global user.name "Windstrom5"
               git config --global pull.rebase false
+              git add README.md && git commit -m "Update Steam playtime" || exit 0
               git remote add origin_with_token "https://Windstrom5:${{ secrets.GH_TOKEN }}@github.com/Windstrom5/steam-box.git"
               git fetch origin_with_token
               git checkout master
-              git add README.md && git commit -m "Update Steam playtime" || exit 0
-              git pull --rebase origin_with_token main
-              git push origin_with_token main
+              git pull --rebase origin_with_token master
+              git push origin_with_token master

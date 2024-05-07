@@ -60,8 +60,15 @@
 <br>
 
 #### <h1>🎮 Most Played Games In Steam </h1>
-![JuanTheJoker](https://steam-stat.vercel.app/api?profileName=Windstrom5)
-![JuanTheJoker](https://steam-stat.vercel.app/api?profileName=76561198881808539)
+
+ <!-- steam-box start -->
+
+
+
+
+
+<!-- Powered by https://github.com/Windstrom5/steam-box-for-readme . -->
+<!-- steam-box end -->
 
 <br>
 <br>

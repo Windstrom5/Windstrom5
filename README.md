@@ -55,23 +55,25 @@
   <a href="https://discord.com/users/411135817449340929" target="_blank"><img src="https://lanyard.cnrad.dev/api/411135817449340929?theme=light&bg=4deeea&animated=false&hideDiscrim=true" alt="My Discord" style="height: 150px; width: 250px;"></a>
   <a href="https://steamcommunity.com/profiles/76561198881808539" target="_blank"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881808539" alt="GRSS" style="height: 150px; width: 250px;"></a>
   <a href="https://github.com/johannchopin/stackoverflow-readme-profile">  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/24832688?theme=monokai&website=true&location=true" alt="user:24832688's SO profile" style="height: 145px;"></a>
+  
 <br>
 <br>
 
-
-<div style="width: 500px;">
-  <!-- steam-box start -->
-  #### <a href="https://gist.github.com/61b6ca8415c3eb4a86441bf39f516509" target="_blank">🎮 Steam playtime leaderboard</a>
-  ```text
-  🔫 Tom Clancy's Rainbow Six Siege   🕘 2031 hrs 58 mins
-  🎮 Rogue Company                    🕘 177 hrs 36 mins
-  🎮 THE FINALS                       🕘 53 hrs 44 mins
-  💻 Wallpaper Engine                 🕘 45 hrs 55 mins
-  🎮 Black Squad                      🕘 10 hrs 46 mins
+<!-- steam-box start -->
+#### <a href="https://gist.github.com/61b6ca8415c3eb4a86441bf39f516509" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🔫 Tom Clancy's Rainbow Six Siege   🕘 2031 hrs 58 mins
+🎮 Rogue Company                    🕘 177 hrs 36 mins
+🎮 THE FINALS                       🕘 53 hrs 44 mins
+💻 Wallpaper Engine                 🕘 45 hrs 55 mins
+🎮 Black Squad                      🕘 10 hrs 46 mins
   ```
-  <!-- Powered by https://github.com/YouEclipse/steam-box . -->
-  <!-- steam-box end -->
-</div>
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
+
+<br>
+<br>
+
 ###  <h1>🧑 **Visitor**</h1>
 
 

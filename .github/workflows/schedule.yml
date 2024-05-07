@@ -39,14 +39,18 @@ jobs:
         id: fetch-gist
         uses: actions/github-script@v5
         with:
-          github-token: ${{ secrets.GH_TOKEN }}
-          script: |
-            const gistId = '${{ env.GIST_ID }}';
-            const { data: gist } = await github.gists.get({ gist_id: gistId });
-            const filename = Object.keys(gist.files)[0];
-            const content = gist.files[filename].content;
-            console.log(content);
-            return content;
+            github-token: ${{ secrets.GH_TOKEN }}
+            script: |
+              const gistId = '${{ env.GIST_ID }}';
+              const response = await github.request('GET /gists/{gist_id}', {
+                gist_id: gistId
+              });
+              const gist = response.data;
+              const filename = Object.keys(gist.files)[0];
+              const content = gist.files[filename].content;
+              console.log(content);
+              return content;
+
 
       - name: Append Gist content to README.md
         run: |

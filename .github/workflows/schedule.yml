@@ -16,8 +16,8 @@ jobs:
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       GIST_ID: 61b6ca8415c3eb4a86441bf39f516509
-      STEAM_API_KEY: ${{ secrets.ST_KEY }}
-      STEAM_ID: 76561198881808539
+      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+      STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
       MARKDOWN_FILE: README.md
 

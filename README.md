@@ -62,12 +62,15 @@
 #### <h1>🎮 Most Played Games In Steam </h1>
 
  <!-- steam-box start -->
-
-
-
-
-
-<!-- Powered by https://github.com/Windstrom5/steam-box-for-readme . -->
+#### <a href="https://gist.github.com/61b6ca8415c3eb4a86441bf39f516509" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🔫 Tom Clancy's Rainbow Six Siege   🕘 2031 hrs 58 mins
+🎮 Rogue Company                    🕘 177 hrs 36 mins
+🎮 THE FINALS                       🕘 53 hrs 44 mins
+💻 Wallpaper Engine                 🕘 45 hrs 55 mins
+🎮 Black Squad                      🕘 10 hrs 46 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 <br>

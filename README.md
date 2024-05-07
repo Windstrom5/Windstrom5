@@ -60,7 +60,6 @@
 <br>
 <!-- steam-box start -->
 #### <h1><a href="https://gist.github.com/61b6ca8415c3eb4a86441bf39f516509" target="_blank">🎮 My favorite games </a></h1>
-  <div align="left">
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 2031 hrs 58 mins
 🎮 Rogue Company                    🕘 177 hrs 36 mins
@@ -68,9 +67,9 @@
 💻 Wallpaper Engine                 🕘 45 hrs 55 mins
 🎮 Black Squad                      🕘 10 hrs 46 mins
   ```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- Powered by https://github.com/Windstrom5/steam-box . -->
 <!-- steam-box end -->
-</div>
+
 <br>
 <br>
 

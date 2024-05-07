@@ -60,10 +60,10 @@
 
 #### <h1><a href="https://gist.github.com/61b6ca8415c3eb4a86441bf39f516509" target="_blank">🕘 My Steam leaderboard</a></h1>
 
-<!-- steam-box-recent start -->
-[View Gist](https://gist.github.com/Windstrom5/61b6ca8415c3eb4a86441bf39f516509)
+<!-- Gist content start -->
+<!-- Include the content of the Gist here -->
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
-<!-- steam-box-recent end -->
+<!-- Gist content end -->
 
 ###  <h1>🧑 **Visitor**</h1>
 

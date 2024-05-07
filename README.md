@@ -58,9 +58,9 @@
   
 <br>
 <br>
-
 <!-- steam-box start -->
 #### <h1><a href="https://gist.github.com/61b6ca8415c3eb4a86441bf39f516509" target="_blank">🎮 My favorite games </a></h1>
+  <div align="left">
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 2031 hrs 58 mins
 🎮 Rogue Company                    🕘 177 hrs 36 mins
@@ -70,7 +70,7 @@
   ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
-
+</div>
 <br>
 <br>
 
@@ -90,7 +90,3 @@
 <a href="https://github.com/Windstrom5/Go-Fit-android"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Windstrom5&repo=Go-Fit-android&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Go-Fit-android"></a>
 <a href="https://github.com/Windstrom5/Tugas_Akhir"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Windstrom5&repo=Tugas_Akhir&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Tugas_Akhir"></a>
 </div>
-
-
-\n\n<!-- Gist content start -->\n\n<!-- Gist content end -->
-\n\n<!-- Gist content start -->\n\n<!-- Gist content end -->

@@ -43,7 +43,7 @@ jobs:
               git config --global pull.rebase false
               git remote add origin_with_token "https://Windstrom5:${{ secrets.GH_TOKEN }}@github.com/Windstrom5/steam-box.git"
               git fetch origin_with_token
-              git checkout main
+              git checkout master
               git add README.md && git commit -m "Update Steam playtime" || exit 0
               git pull --rebase origin_with_token main
               git push origin_with_token main

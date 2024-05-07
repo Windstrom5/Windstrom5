@@ -10,13 +10,12 @@ jobs:
     name: Update-steam-playtime
     runs-on: ubuntu-latest
     env:
-      STEAM_OPTION: ALLTIME_AND_RECENT
-      GH_TOKEN: ${{ secrets.GH_SECRET }}
-      GIST_ID: 38df27d812b0bd3684edff737f6e1297
       STEAM_API_KEY: ${{ secrets.ST_KEY }}
       STEAM_ID: 76561198881808539
-      UPDATE_OPTION: GIST_AND_MARKDOWN
+      UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
+      STEAM_OPTION: ALLTIME_AND_RECENT
+
     steps:
       - name: Set up Go 1.x
         uses: actions/setup-go@v2
@@ -28,9 +27,9 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
-          git clone https://github.com/YouEclipse/steam-box.git 
-          cd steam-box && go build -o steam ./cmd/box/main.go
-          mv ./steam ../ && cd .. && rm -rf steam-box/
+          git clone https://github.com/torresflo/steam-box-for-readme.git
+          cd steam-box-for-readme && go build -o steam ./cmd/box/main.go
+          mv ./steam ../ && cd .. && rm -rf steam-box-for-readme/
       - name: Commit and push
         run: |-
           ./steam

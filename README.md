@@ -62,7 +62,6 @@
 #### <h1>🎮 Most Played Games In Steam </h1>
 
  <!-- steam-box start -->
-#### <a href="https://gist.github.com/61b6ca8415c3eb4a86441bf39f516509" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 2031 hrs 58 mins
 🎮 Rogue Company                    🕘 177 hrs 36 mins

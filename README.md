@@ -58,7 +58,7 @@
 <br>
 <br>
 
-### <h1>🕘 My Steam leaderboard</h1>
+#### <h1><a href="https://gist.github.com/dd3e3d30a8ddfe78411be0698796ba7b" target="_blank">🕘 My Steam leaderboard</a></h1>
 
 <!-- steam-box-recent start -->
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

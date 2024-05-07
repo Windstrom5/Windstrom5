@@ -70,7 +70,7 @@
   ```
 <!-- Powered by https://github.com/Windstrom5/steam-box . -->
 <!-- steam-box end -->
-
+![JuanTheJoker](https://steam-stat.vercel.app/api?profileName=Windstrom5)
 <br>
 <br>
 

@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [master]
   schedule:
-    - cron: "10 * * * *"
+   - cron: '0 19 * * *' # Run every day at midnight WIB
   workflow_dispatch:
   
 jobs:

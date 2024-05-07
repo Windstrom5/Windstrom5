@@ -37,9 +37,14 @@ jobs:
           mv ./steam ../ && cd .. && rm -rf steam-box/
            - name: Commit and push
       - name: Commit and push
-        run: |-
+        run: |
           ./steam
-          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
-          git diff
-          git add README.md && git commit -m ":memo: update profile" || exit 0
-          git pull && git push
+          git config user.email "anggagant@gmail.com"
+          git config --global user.name "Windstrom5"
+          git config --global pull.rebase false
+          git add README.md && git commit -m "Update Steam playtime" || exit 0
+          git remote add origin_with_token "https://Windstrom5:${{ secrets.GH_TOKEN }}@github.com/Windstrom5/steam-box.git"
+          git fetch origin_with_token
+          git checkout master
+          git pull --rebase origin_with_token master
+          git push origin_with_token master

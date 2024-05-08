@@ -20,6 +20,8 @@
 
 <br>
 <br>
+<br>
+
 
 ###  <h1>🖥️ Knowledge And Tools</h1>
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -79,7 +81,6 @@
 <a href="https://github.com/Windstrom5/go_fit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Windstrom5&repo=go_fit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="go_fit"></a>
 <a href="https://github.com/Windstrom5/Go-Fit-android"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Windstrom5&repo=Go-Fit-android&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Go-Fit-android"></a>
 <a href="https://github.com/Windstrom5/Tugas_Akhir"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Windstrom5&repo=Tugas_Akhir&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Tugas_Akhir"></a>
-</div>
 
 <br>
 <br>
@@ -94,3 +95,4 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&size=50&pause=1000&color=4DEEEA&center=true&random=false&width=500&height=100&lines=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86+%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99)](https://git.io/typing-svg)
+</div>

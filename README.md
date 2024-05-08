@@ -78,7 +78,7 @@
 
 ###  <h1>🧑 **Visitor**</h1>
 
-
+<img src="https://count.getloli.com/get/@:name ?theme=rule34" alt=":name" />
 
 <br>
 <br>

@@ -28,7 +28,11 @@
 
 <br>
 <br>
+###  <h1>⌨ Currently Study At</h1>
+![flutter](https://img.shields.io/badge/flutter-%237F52FF.svg?style=for-the-badge&logo=flutter&logoColor=white)%20!)![CSharp](https://img.shields.io/badge/csharp-%237F52FF.svg?style=for-the-badge&logo=csharp&logoColor=white)%20!)![Go](https://img.shields.io/badge/Go-%237F52FF.svg?style=for-the-badge&logo=Go&logoColor=white)%20!)
 
+<br>
+<br>
 ###  <h1>📊 **Github Stats**</h1>
 
   ![Windstrom5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Windstrom5&show_icons=true&theme=midnight-purple")

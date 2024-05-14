@@ -31,7 +31,7 @@
 <br>
 ###  <h1>⌨ Currently Study At</h1>
 
-![Flutter](https://img.shields.io/badge/flutter-%237F52FF.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Csharp](https://img.shields.io/badge/csharp-%237F52FF.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSharp](). ![Go](https://img.shields.io/badge/Go-%237F52FF.svg?style=for-the-badge&logo=Go&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%237F52FF.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Csharp](https://img.shields.io/badge/csharp-%237F52FF.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-%237F52FF.svg?style=for-the-badge&logo=Go&logoColor=white)
 
 <br>
 <br>

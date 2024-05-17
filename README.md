@@ -93,7 +93,9 @@
 <br>
 <br>
 
+###  <h1>🧑 **Visitor**</h1>
 
+<img src="https://count.getloli.com/get/@Windstrom5?theme=rule34" />
 
 <br>
 <br>

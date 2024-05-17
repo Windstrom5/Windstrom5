@@ -1,5 +1,4 @@
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=Windstrom5)
   [![Anime](https://img.shields.io/badge/Anime-Lover-pink?style=flat-square&logo=anime)](https://myanimelist.net/profile/team_onodera12)
   [![Gaming](https://img.shields.io/badge/Gaming-Enthusiast-blue?style=flat-square&logo=pc)](https://steamcommunity.com/profiles/76561198881808539/)
   [![Kotlin](https://img.shields.io/badge/Kotlin-Developer-orange?style=flat-square&logo=kotlin)](https://github.com/Windstrom5/Tugas_Akhir)

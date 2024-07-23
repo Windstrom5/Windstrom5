@@ -75,7 +75,7 @@
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 2031 hrs 58 mins
 🎮 Rogue Company                    🕘 177 hrs 36 mins
-🎮 THE FINALS                       🕘 66 hrs 59 mins
+🎮 THE FINALS                       🕘 67 hrs 44 mins
 💻 Wallpaper Engine                 🕘 45 hrs 55 mins
 🎮 Don't Starve Together            🕘 12 hrs 27 mins
 ```

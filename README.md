@@ -77,7 +77,7 @@
 🎮 Rogue Company                    🕘 177 hrs 36 mins
 🎮 THE FINALS                       🕘 72 hrs 41 mins
 💻 Wallpaper Engine                 🕘 45 hrs 55 mins
-🎮 VRoid Studio                     🕘 36 hrs 17 mins
+🎮 VRoid Studio                     🕘 37 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

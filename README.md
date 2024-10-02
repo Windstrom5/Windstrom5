@@ -57,7 +57,7 @@
 ###  <h1>🎵 **Spotify Playlist**</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hylwowzyrwilair3s7pf6fs4wy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hylwowzyrwilair3s7pf6fs4wy)
 <br>
 <br>
 

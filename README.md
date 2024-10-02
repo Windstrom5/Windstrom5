@@ -9,7 +9,7 @@
   
   [![typograssy](https://typograssy.deno.dev/api?text=私のプロフィールへようこそ&bg=000000&number=150)](https://github.com/kawarimidoll/typograssy)
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lugrasimo&size=50&pause=1000&color=1F20EE&center=true&random=false&width=1000&height=100&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
-
+[![Discord Presence](https://lanyard.kyrie25.me/api/411135817449340929)](https://discord.com/users/411135817449340929)
 <br>
 <br>
 <br>

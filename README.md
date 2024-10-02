@@ -56,7 +56,7 @@
 
 ###  <h1>🎵 **Spotify Playlist**</h1>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hylwowzyrwilair3s7pf6fs4wy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hylwowzyrwilair3s7pf6fs4wy&redirect=true)![Recently Played Tracks](https://spotify-recently-played-readme.vercel.app/api?user=31hylwowzyrwilair3s7pf6fs4wy)
+(https://spotify-github-profile.vercel.app/api/view?uid=31hylwowzyrwilair3s7pf6fs4wy&redirect=true)![Recently Played Tracks](https://spotify-recently-played-readme.vercel.app/api?user=31hylwowzyrwilair3s7pf6fs4wy)
 
 <br>
 <br>

@@ -8,10 +8,9 @@
 
   
   [![typograssy](https://typograssy.deno.dev/api?text=私のプロフィールへようこそ&bg=000000&number=150)](https://github.com/kawarimidoll/typograssy)
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lugrasimo&size=50&pause=1000&color=1F20EE&center=true&random=false&width=1000&height=100&lines=𝕵𝖚𝖘𝖙+𝕽𝖆𝖓𝖉𝖔𝖒+𝕯𝖚𝖉𝖊)](https://git.io/typing-svg)
   [![Discord Presence](https://lanyard.kyrie25.me/api/411135817449340929)](https://discord.com/users/411135817449340929)
-   <p>𝕵𝖚𝖘𝖙 𝕽𝖆𝖓𝖉𝖔𝖒 𝕯𝖚𝖉𝖊 </p>
-   <p>𝖂𝖍𝖔 𝕷𝖔𝖛𝖊 𝕮𝖔𝖉𝖎𝖓𝖌 𝕬𝖓𝖉 𝕲𝖆𝖒𝖎𝖓𝖌</p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lugrasimo&size=50&pause=1000&color=1F20EE&center=true&random=false&width=1000&height=100&lines=𝖂𝖍𝖔+𝕷𝖔𝖛𝖊+𝕮𝖔𝖉𝖎𝖓𝖌+𝕬𝖓𝖉+𝕲𝖆𝖒𝖎𝖓𝖌)](https://git.io/typing-svg)
+
 <br>
 <br>
 <br>

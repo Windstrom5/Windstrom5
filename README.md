@@ -78,8 +78,8 @@
 🔫 Tom Clancy's Rainbow Six Siege   🕘 2031 hrs 58 mins
 🎮 Rogue Company                    🕘 177 hrs 36 mins
 🎮 THE FINALS                       🕘 73 hrs 0 mins
-🎮 Deadlock                         🕘 66 hrs 14 mins
-🎮 VRoid Studio                     🕘 62 hrs 25 mins
+🎮 Deadlock                         🕘 67 hrs 10 mins
+🎮 VRoid Studio                     🕘 63 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

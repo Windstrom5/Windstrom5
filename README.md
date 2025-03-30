@@ -1,10 +1,10 @@
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=Windstrom5&color=ff69b4)
-	[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](https://myanimelist.net/profile/Windstrom7)
-  [![Gaming](https://img.shields.io/badge/Gaming-Enthusiast-blue?style=flat-square&logo=pc)](https://steamcommunity.com/profiles/76561198881808539/)
-  [![Kotlin](https://img.shields.io/badge/Kotlin-Developer-orange?style=flat-square&logo=kotlin)](https://github.com/Windstrom5/Tugas_Akhir)
-  [![Yoasobi](https://img.shields.io/badge/Yoasobi-Fan-lightgreen?style=flat-square&logo=spotify)](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj)
+  [!](https://komarev.com/ghpvc/?username=Windstrom5&color=ff69b4)
+  [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](https://myanimelist.net/profile/Windstrom7)
+  [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198881808539/)
+  [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](https://github.com/Windstrom5/Tugas_Akhir)
+  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj)
 
   
   [![typograssy](https://typograssy.deno.dev/api?text=私のプロフィールへようこそ&bg=000000&number=150)](https://github.com/kawarimidoll/typograssy)

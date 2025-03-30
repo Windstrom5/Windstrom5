@@ -1,6 +1,6 @@
 <div align="center">
 
-  [!](https://komarev.com/ghpvc/?username=Windstrom5&color=ff69b4)
+  ![](https://komarev.com/ghpvc/?username=Windstrom5&color=ff69b4)
   [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](https://myanimelist.net/profile/Windstrom7)
   [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198881808539/)
   [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](https://github.com/Windstrom5/Tugas_Akhir)
